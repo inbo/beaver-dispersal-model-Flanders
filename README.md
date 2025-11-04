@@ -1,5 +1,7 @@
 # Beaver dispersal model (Flanders)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17406546.svg)](https://doi.org/10.5281/zenodo.17406546)
+
 This GitHub repository provides the source code for a species distribution model created for European beaver in Flanders. This model is an improved version of the model described in the paper by [Huysentruyt & Rutten (2024)](https://doi.org/10.1007/s10344-024-01831-1) in the European Journal of Wildlife Research.
 
 This code models how beavers disperse in Flanders. The model code is presented in [Beaver_dispersal_model_Flanders.Rmd](Beaver_dispersal_model_Flanders.Rmd).
